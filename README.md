@@ -13,12 +13,12 @@ Automated Data Logging: It automatically logs details of recognized individuals 
 
 Tech Stack & Dependencies or Modules Required :
 
-Programming Language: Python
+Programming Language: Python,
 Libraries Used:
-opencv-python – for face and number plate recognition
-numpy – for matrix/image processing
-datetime – to timestamp all entries
-requests – for possible API integrations (future scope)
+opencv-python – for face and number plate recognition,
+numpy – for matrix/image processing,
+datetime – to timestamp all entries,
+requests – for possible API integrations (future scope),
 openpyxl – for Excel-based data storage.
 
 The required modules will be automatically installed and the project will run if the 'securitysystem.bat' file is opened.
